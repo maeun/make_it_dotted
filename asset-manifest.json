@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/make_it_dotted/static/css/main.e6c13ad2.css",
+    "main.js": "/make_it_dotted/static/js/main.f8846253.js",
+    "static/js/453.e58375f1.chunk.js": "/make_it_dotted/static/js/453.e58375f1.chunk.js",
+    "index.html": "/make_it_dotted/index.html",
+    "main.e6c13ad2.css.map": "/make_it_dotted/static/css/main.e6c13ad2.css.map",
+    "main.f8846253.js.map": "/make_it_dotted/static/js/main.f8846253.js.map",
+    "453.e58375f1.chunk.js.map": "/make_it_dotted/static/js/453.e58375f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8846253.js"
+  ]
+}
